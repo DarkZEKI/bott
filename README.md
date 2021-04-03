@@ -236,4 +236,4 @@ Bot de WhatsApp simple
 ---
 --------------
 
-##### Autor / Creador : [`Mikey69YT`](https://GitHub.com/MK-Mods-OFC) 
+##### Autor / Creador : [`ÐΛ尺ҚẔƐ`](https://github.com/DarkZEKI) 
