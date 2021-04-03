@@ -8,7 +8,7 @@ handler.before = m => {
 
   if (chat.antiLink && isGroupLink)
   await m.groupRemove(m.chat, [user])
-  await m.reply('Adios!!')
+  await m.reply('Adios zorra:D')
 
   return true
 }
