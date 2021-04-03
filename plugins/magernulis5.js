@@ -8,7 +8,7 @@ let handler  = async (m, { conn, text }) => {
   let tgl = d.toLocaleDateString('id-Id')
   let hari = d.toLocaleDateString('id-Id', { weekday: 'long' })
  text,
-await conn.sendFile(m.chat, global.API('xteam', '/magernulis5', { text, }, 'APIKEY'), 'nulis.jpg', 'Adiós hermano..\nSigueme en Instagram: *@mikey69yt*', m)
+await conn.sendFile(m.chat, global.API('xteam', '/magernulis5', { text, }, 'APIKEY'), 'nulis.jpg', 'Adiós hermano..\nSigueme en Instagram: *Próximamente*', m)
 }
 handler.help = ['magern'].map(v => v + 'ulis5 (texto)')
 handler.tags = ['nulis']
