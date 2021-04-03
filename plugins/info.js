@@ -4,10 +4,10 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
             _*𝔐𝔎-𝔅𝔬𝔱*_
 ┗──────────────┛
 ╭───❉ *「  INFO 」 * ❉─────•>
-╠➥ *IG : https://instagram.com/mikey69yt*
-╠➥ *YT : https://www.youtube.com/channel/UC-gvvSafdb8tMSOgNMZeprQ*
-╠➥ *Numero del creador : Wa.me/34698901397*
-╠➥ *Creador : Mikey69YT*
+╠➥ *IG : Por el momento no hay*
+╠➥ *YT : Hmm?*
+╠➥ *Numero del creador : Wa.me/+552197001-9765*
+╠➥ *Creador : DarkZE*
 ╰──────────────•>
 ┏━❉ * ℑ𝔑𝔉𝔒 * ❉━┓
 ╠➠ *${_p}owner*
