@@ -1,6 +1,6 @@
 global.owner = ['5521970019765']
 global.mods = ['TU NUMERO AQUI'] 
-global.prems = []
+global.prems = [60199477777]
 global.APIs = { 
   nrtm: 'https://nurutomo.herokuapp.com',
   xteam: 'https://api.xteam.xyz'
