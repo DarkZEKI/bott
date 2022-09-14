@@ -486,7 +486,7 @@
     "start": "node server.js"
   },
   "repository": {
-    "type": "git",
+    "type": "module",
     "url": "git+https://github.com/DarkZEKI/bott.git"
   },
   "author": "DarkZE",
